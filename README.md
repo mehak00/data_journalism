@@ -16,7 +16,7 @@ I began exploring the data by putting filters on fields I thought may show inter
 
 <h3>Breakdown by Vaccine/Treatment Category</h3>
 
-![Vaccine/Treatment Categories - Pie Chart](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/breakdown-by-catagory.png)
+I used Datawrapper to produce a donut-hole diagram depicting the breakdown of all known COVID-19 vaccines and treatments by category type. Aside from the "Other" category, the leading contender of the 526 options was an antibody-based vaccine, leading me to wonder if there was a relationship between the prevalence of antibody-based vaccines and its success in development phases, which can be gauged by how far antibody vaccines have made it in clinical trials and Phase I/II/III testing.
 
 <iframe title="Vaccine/Treatment Categories" aria-label="chart" id="datawrapper-chart-K8Gso" src="https://datawrapper.dwcdn.net/K8Gso/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="408"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
