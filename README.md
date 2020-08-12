@@ -43,7 +43,9 @@ It appears that although antibody-based vaccines make up a large portion of the 
 
 Returning to the initial dataset, I focused on more details regarding the specific options that are currently in the Phase III stage by filtering. In the United States, it seems that RNA-based vaccines might be leading the charge, given recent news regarding the success of the Moderna-NIH collaboration on an RNA-based vaccine as well as Pfizer's involvement in a similar project with Chinese and German drug makers. Although they have not yet brought a product to market, Moderna develops vaccines based on messenger RNA (mRNA) to produce viral proteins in the body. The Moderna-NIH collaboration has been found to protect monkeys from the coronavirus. In March, the company put the first Covid-19 vaccine into human trials, which yielded promising results. The Phase III trial began on July 27th and enrolled 30,000 healthy people at about 89 sites around the United States. The federal government is financing Moderna’s efforts with nearly $1 billion in support.
 
-Globally, the main approach from drug manufacturers seems to be based on inactivated virus; many China-based investors appear to make up the majority of these options.
+RNA-based vaccines provide immunity through introduction of genetic material (RNA). These can also be potentially developed more quickly and easily than other vaccines, which is why the U.S. is investing so heavily in them despite the fact that no RNA vaccines have yet been approved for human use.
+
+Globally, the main approach from drug manufacturers seems to be based on inactivated virus; many China-based investors appear to make up the majority of these options. 
 
 <h3>Conclusion</h3>
 
