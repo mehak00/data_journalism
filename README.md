@@ -10,6 +10,8 @@ For most of these fields, not much cleaning was needed. I noticed some count err
 
 <h3>Initial Data Exploration</h3>
 
+<img src="data-interrogation.png" alt="hi" class="inline"/>
+
 ![Data-Filtering](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/data-interrogation.png)
 
 I began exploring the data by putting filters on fields I thought may show interesting results, specifically the category types (e.g., DNA-based vaccines, cell-based therapies, et cetera) and the development stages. After filtering for certain types and stages, I took a look at the different product descriptions, FDA indications, and funders, to get a better sense of the landscape. Through this initial exploration, I was able to see a correlation between the category types and development stages, which I decided to further explore using other methods.
