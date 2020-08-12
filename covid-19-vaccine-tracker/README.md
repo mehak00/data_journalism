@@ -5,12 +5,12 @@ The data I looked at for this project is for COVID-19 vaccines and treatments. T
 
 For most of these fields, not much cleaning was needed. I noticed some count errors while making pivot tables, which I then fixed by "trimming" certain values as there was an extra space at the end of the value, which prevented it from being categorized and  counted correctly.
 
-Breakdown by Vaccine/Treatment Category
+<h2>Breakdown by Vaccine/Treatment Category</h2>
 
-![Breakdown by Vaccine/Treatment Category](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/breakdown-by-catagory.png)
+![Vaccine/Treatment Categories - Pie Chart](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/breakdown-by-catagory.png)
 
-Relationship between Category and Development Stage
+<h2>Relationship between Category and Development Stage</h2>
 
 I created a pivot table to visualize the relationship between category and development stage.
 
-![Relationship between Category and Development Stage](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/category-development-pivot.png)
+![Category and Development Stage - Pivot Table](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/category-development-pivot.png)
