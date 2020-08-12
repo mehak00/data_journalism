@@ -7,8 +7,10 @@ For most of these fields, not much cleaning was needed. I noticed some count err
 
 Breakdown by Vaccine/Treatment Category
 
+![Breakdown by Vaccine/Treatment Category](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/breakdown-by-catagory.png)
 
 Relationship between Category and Development Stage
 
 I created a pivot table to visualize the relationship between category and development stage.
 
+![Relationship between Category and Development Stage](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/category-development-pivot.png)
