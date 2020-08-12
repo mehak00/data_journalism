@@ -10,7 +10,7 @@ For most of these fields, not much cleaning was needed. I noticed some count err
 
 <h3>Initial Data Exploration</h3>
 
-![alt text](data-interrogation.png "My Chart!")  
+![alt text](data-interrogation.png "Data-Filtering")  
 
 ![Data-Filtering](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/data-interrogation.png)
 
@@ -27,7 +27,7 @@ I used Datawrapper to produce a donut-hole diagram depicting the breakdown of al
 
 I created a pivot table to visualize the relationship between category and development stage.
 
-![Category and Development Stage - Pivot Table](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/category-development-pivot.png)
+![alt text](category-development-pivot.png "Category and Development Stage - Pivot Table")
 
 <iframe title="Category and Development Stage" aria-label="chart" id="datawrapper-chart-upKyE" src="https://datawrapper.dwcdn.net/upKyE/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1120"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
