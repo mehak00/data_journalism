@@ -1,4 +1,6 @@
-# Final Project - Mehak Sharma
+# COVID-19 Vaccine/Treatment Tracker
+<h4>Journalism 124 | Summer 2020</h4>
+<h4>Final Project - Mehak Sharma</h4>
 
 The data I looked at for this project is for COVID-19 vaccines and treatments. This data was obtained from [the Milken Institute's COVID-19 Tracker](https://covid-19tracker.milkeninstitute.org/). The Milken Institute’s FasterCures project is tracking hundreds of potential COVID-19 treatments and vaccines. For each candidate, the project’s database lists its category (e.g., DNA-based vaccines, cell-based therapies, et cetera), a brief description, its stage of development, “anticipated next steps,” funders, published results, FDA-Approved indications, and more.
 
