@@ -1,8 +1,8 @@
 # COVID-19 Vaccine/Treatment Tracker
-<h5>Journalism 124 | Summer 2020</h5>
-<h5>Mehak Sharma</h5>
+<h3>Mehak Sharma | Journalism 124 | Summer 2020</h3>
 
-The data I looked at for this project is for COVID-19 vaccines and treatments. This data was obtained from [the Milken Institute's COVID-19 Tracker](https://covid-19tracker.milkeninstitute.org/). The Milken Institute’s FasterCures project is tracking hundreds of potential COVID-19 treatments and vaccines. For each candidate, the project’s database lists its category (e.g., DNA-based vaccines, cell-based therapies, et cetera), a brief description, its stage of development, “anticipated next steps,” funders, published results, FDA-Approved indications, and more.
+
+The data I looked at for this project pertains to COVID-19 vaccines and treatments. This data was obtained from [the Milken Institute's COVID-19 Tracker](https://covid-19tracker.milkeninstitute.org/). The Milken Institute’s FasterCures project is tracking hundreds of potential COVID-19 treatments and vaccines. For each candidate, the project’s database lists its category (e.g., DNA-based vaccines, cell-based therapies, et cetera), a brief description, its stage of development, “anticipated next steps,” funders, published results, FDA-Approved indications, and more.
 
 [Link to data](https://airtable.com/shrSAi6t5WFwqo3GM/tblEzPQS5fnc0FHYR/viweyymxOAtNvo7yH?blocks=bipZFzhJ7wHPv7x9z)
 
@@ -17,6 +17,9 @@ I began exploring the data by putting filters on fields I thought may show inter
 <h3>Breakdown by Vaccine/Treatment Category</h3>
 
 ![Vaccine/Treatment Categories - Pie Chart](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/breakdown-by-catagory.png)
+
+<iframe title="Vaccine/Treatment Categories" aria-label="chart" id="datawrapper-chart-K8Gso" src="https://datawrapper.dwcdn.net/K8Gso/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="408"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 <h3>Relationship between Category and Development Stage</h3>
 
