@@ -7,7 +7,7 @@ For most of these fields, not much cleaning was needed. I noticed some count err
 
 <h2>Initial Data Exploration</h2>
 
-![Data-Filtering](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/data-interrogation.png)
+![Data-Filtering](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/data-interrogation.png = 250x250)
 
 
 <h2>Breakdown by Vaccine/Treatment Category</h2>
