@@ -10,7 +10,7 @@ For most of these fields, not much cleaning was needed. I noticed some count err
 
 <h3>Initial Data Exploration</h3>
 
-<img src="data-interrogation.png" alt="hi" class="inline"/>
+![alt text](data-interrogation.png "My Chart!")  
 
 ![Data-Filtering](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/data-interrogation.png)
 
