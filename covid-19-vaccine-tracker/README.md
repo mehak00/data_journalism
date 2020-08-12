@@ -14,3 +14,5 @@ For most of these fields, not much cleaning was needed. I noticed some count err
 I created a pivot table to visualize the relationship between category and development stage.
 
 ![Category and Development Stage - Pivot Table](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/category-development-pivot.png)
+
+Some additional data I made efforts to find for this project including more information about the funding - Operation Warp Speed, as well as other global funders. Unfortunately, I was unable to find a comprehensive dataset on any of these topics.
