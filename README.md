@@ -36,7 +36,7 @@ Then, I transferred this pivot table to Datawrapper to create a searchable, clea
 <iframe title="Category and Development Stage" aria-label="chart" id="datawrapper-chart-upKyE" src="https://datawrapper.dwcdn.net/upKyE/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1120"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-It appears that although antibody-based vaccines make up a large portion of the 526 total vaccines and treatments being tracked, all of them are either in pre-clinical and clinical stages. On the other hand, the only options that have made it to Phase III testing are inactivated viruses (3), non-replicating viral vectors (1), and RNA-based vaccines (2). 
+It appears that although antibody-based vaccines make up a large portion of the 526 total vaccines and treatments being tracked, all of them are either in pre-clinical and clinical stages. On the other hand, the only options that have made it to Phase III testing are inactivated viruses (3), non-replicating viral vectors (1), and RNA-based vaccines (2). All of these are vaccines, not treatments.
 
 <iframe title="Breakdown of Treatments/Vaccines in Phase 3" aria-label="chart" id="datawrapper-chart-CLk3K" src="https://datawrapper.dwcdn.net/CLk3K/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="560"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
@@ -45,7 +45,9 @@ Returning to the initial dataset, I focused on more details regarding the specif
 
 RNA-based vaccines provide immunity through introduction of genetic material (RNA). These can also be potentially developed more quickly and easily than other vaccines, which is why the U.S. is investing so heavily in them despite the fact that no RNA vaccines have yet been approved for human use.
 
-Globally, the main approach from drug manufacturers seems to be based on inactivated virus; many China-based investors appear to make up the majority of these options. 
+Globally, the main approach from drug manufacturers seems to be based on inactivated virus; many China-based investors appear to make up the majority of these options. The inactivated virus approach consists of viruses grown in culture and then killed as a means to reduce virulence (ability to infect and cause harm) and thus prevent infection from the vaccine. Examples include polio and influenza vaccines, which is likely why it is being explored so heavily.
+
+The third type of vaccine in Phase III, a non-replicating viral vector, comes from Europe - specifically, the Oxford-AstraZenenca collaboration. This novel approach is similar to replicating viral vector vaccines in that a viral gene is added to a different, non-replicating, virus and delivered to the vaccine recipient. However, no approved product of this kind has resulted to date.
 
 <h3>Conclusion</h3>
 
