@@ -29,4 +29,9 @@ I created a pivot table to visualize the relationship between category and devel
 
 ![Category and Development Stage - Pivot Table](https://github.com/mehak00/data_journalism/blob/master/covid-19-vaccine-tracker/category-development-pivot.png)
 
+<iframe title="Category and Development Stage" aria-label="chart" id="datawrapper-chart-upKyE" src="https://datawrapper.dwcdn.net/upKyE/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1120"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+<h3>Conclusion</h3>
+
 Some additional data I made efforts to find for this project including more information about the funding - Operation Warp Speed, as well as other global funders. Unfortunately, I was unable to find a comprehensive dataset on any of these topics.
